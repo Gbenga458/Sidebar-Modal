@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sidebar-Modal/static/css/main.1634b709.css",
+    "main.js": "/Sidebar-Modal/static/js/main.c65b3600.js",
+    "static/media/logo.svg": "/Sidebar-Modal/static/media/logo.54b18dd3268d0ea29040a4ee5e16d415.svg",
+    "index.html": "/Sidebar-Modal/index.html",
+    "main.1634b709.css.map": "/Sidebar-Modal/static/css/main.1634b709.css.map",
+    "main.c65b3600.js.map": "/Sidebar-Modal/static/js/main.c65b3600.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1634b709.css",
+    "static/js/main.c65b3600.js"
+  ]
+}
